@@ -1,2 +1,2 @@
 this is directory README
-updated by sayid
+updated by sayid .
